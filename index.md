@@ -1,10 +1,10 @@
-# Witajcie na naszej stronie AWZ!
+# Witajcie na naszej głównej stronie AWZ!
 
-[Nasza historia](somethig.md)
+[Menu spraw](somethig.md)
 
 <img src="images/AWZ.png" width="250" style="float:right">
 
-## Welcome to GitHub Pages
+## Na tej stronie znajdziecie informacje o naszej działalności i różnych ciekawostkach.
 
 You can use the [editor on GitHub](https://github.com/itekus009/AVZ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
