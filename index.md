@@ -1,6 +1,6 @@
 # Witajcie na naszej głównej stronie AWZ!
 
-[Menu spraw](somethig.md)
+[Menu spraw](menu.md)
 
 <img src="images/AWZ.png" width="250" style="float:right">
 
