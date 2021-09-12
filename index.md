@@ -2,7 +2,7 @@
 
 [gugiel](somethig.md)
 
-![]()
+![Płatek śniegu](płaciuś — kopia.ICO)
 
 ## Welcome to GitHub Pages
 
