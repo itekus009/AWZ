@@ -2,7 +2,7 @@
 
 [gugiel](somethig.md)
 
-<img src="AWZ.jpg" width="250">
+<img src="AWZ.jpg" width="250" style="float:right">
 
 ## Welcome to GitHub Pages
 
