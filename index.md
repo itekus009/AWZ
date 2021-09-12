@@ -4,7 +4,8 @@
 
 <img src="images/AWZ.png" width="250" style="float:right">
 
-## Na tej stronie znajdziecie informacje o naszej działalności i różnych ciekawostkach.
+## Na tej stronie...
+znajdziecie informacje o naszej działalności i różnych ciekawostkach.
 
 Wszystkich agentów jest czterech, to nasza oficjalna strona. Zajmujemy się przeróżnymi sprawami.
 
