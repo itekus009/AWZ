@@ -1,6 +1,6 @@
-# Hello!
+# Witajcie na naszej stronie AWZ!
 
-[gugiel](somethig.md)
+[Nasza historia](somethig.md)
 
 <img src="AWZ.jpg" width="250" style="float:right">
 
