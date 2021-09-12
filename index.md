@@ -2,7 +2,7 @@
 
 [gugiel](somethig.md)
 
-![Płatek śniegu](płaciuś — kopia.ICO)
+![AWZ logo](AWZ.jpg)
 
 ## Welcome to GitHub Pages
 
