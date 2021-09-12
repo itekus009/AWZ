@@ -2,7 +2,7 @@
 
 [Nasza historia](somethig.md)
 
-<img src="images/AWZ.PNG" width="250" style="float:right">
+<img src="images/AWZ." width="250" style="float:right">
 
 ## Welcome to GitHub Pages
 
