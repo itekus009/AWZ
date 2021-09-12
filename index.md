@@ -1,6 +1,6 @@
 # Hello!
 
-[gugiel](something.md)
+[gugiel](somethig.md)
 
 ## Welcome to GitHub Pages
 
