@@ -29,4 +29,5 @@ Silny i odwarzny, to on jest wysyłany na najgroźniejsze misje (Nie radzę z ni
 Zwinny, szybki i tajemniczy. Nawet ja mało o nim wiem.
 
 
+
 To cały nasz zespół. Rozwiązujemy skomplikowane, jak i banalne zagadki oraz misje.
