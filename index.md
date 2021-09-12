@@ -2,7 +2,7 @@
 
 [gugiel](somethig.md)
 
-![AWZ logo](AWZ.jpg)
+<img src="AWZ.jpg" width="250">
 
 ## Welcome to GitHub Pages
 
