@@ -2,7 +2,7 @@
 
 [Menu spraw](menu.md)
 
-<img src="images/AWZ.png" width="250" style="float:right">
+<img src="images/TEST.jpg" width="250">
 
 ## Tutaj...
 znajdziecie informacje o naszej działalności i różnych ciekawostkach.
