@@ -2,7 +2,7 @@
 
 [Menu spraw](menu.md)
 
-<img src="images/TEST.jpg" width="250">
+<img src="TEST.jpg" width="250">
 
 ## Tutaj...
 znajdziecie informacje o naszej działalności i różnych ciekawostkach.
